@@ -97,19 +97,20 @@ GROUP BY customer\_state;
 
 
 #### **Visualizations:**
-## Sales Trend
+
+###### **Sales Trend**
 ![Sales Trend](chart/monthly sales trend_chart.png)
 
-##Delivery Status
+###### **Delivery Status**
 ![Delivery Status](chart/order delivery status distribution_chart.png)
 
-##Top 10 Cities
+###### **Top 10 Cities**
 ![Top 10 Cities](chart/top 10 cities by orders_chart.png)
 
-##Top Products
+###### **Top Products**
 ![Top Products](chart/top 10 product categories_chart.png)
 
-##Top 10 States
+###### **Top 10 States**
 ![Top 10 States](chart/top 10 states by orders_chart.png)
 
 
