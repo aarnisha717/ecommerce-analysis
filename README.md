@@ -99,19 +99,19 @@ GROUP BY customer\_state;
 #### **Visualizations:**
 
 ###### **Sales Trend**
-![Sales Trend](chart/monthly sales trend_chart.png)
+![Sales Trend](chart/monthly_sales_trend_chart.png)
 
 ###### **Delivery Status**
-![Delivery Status](chart/order delivery status distribution_chart.png)
+![Delivery Status](chart/order_delivery_status_distribution_chart.png)
 
 ###### **Top 10 Cities**
-![Top 10 Cities](chart/top 10 cities by orders_chart.png)
+![Top 10 Cities](chart/top_10_cities_by_orders_chart.png)
 
 ###### **Top Products**
-![Top Products](chart/top 10 product categories_chart.png)
+![Top Products](chart/top_10_product_categories_chart.png)
 
 ###### **Top 10 States**
-![Top 10 States](chart/top 10 states by orders_chart.png)
+![Top 10 States](chart/top_10_states_by_orders_chart.png)
 
 
 #### **Insights:**
